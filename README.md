@@ -23,3 +23,7 @@ This is a responsive Job Listing component built with React for displaying, filt
 3. Run the app: `npm start`
 4. Open your browser and navigate to `http://localhost:3000`
 5. You can now interact with the Job Listing component
+
+## Demo
+
+- [Deployed link](https://job-listing-component.netlify.app/)
